@@ -15,7 +15,7 @@ If you are using BetterDiscord, you **MUST have a plugin by [DevilBro](https://b
 ### 1. Importing the Database
 
 ```css
-@import "//ItMeSarah.github.io/usrbg/usrbg.css";;
+@import "//ItMeSarah.github.io/usrbg/usrbg.css";
 ```
 
 This will import the USRBG database. Alone, it's simply some variables. Some of examples on how it can be utilized can be seen in the [Snippets]("//ItMeSarah.github.io/UsrBGSnippet.css") folder of this repo.
